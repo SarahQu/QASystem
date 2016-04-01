@@ -1,0 +1,198 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJS strongest) (NN rain))
+        (VP
+          (ADVP (RB ever))
+          (VBN recorded)
+          (PP (IN in)
+            (NP (NNP India)))))
+      (VP
+        (VP (VBD shut)
+          (PRT (RP down))
+          (NP
+            (NP (DT the) (JJ financial) (NN hub))
+            (PP (IN of)
+              (NP (NNP Mumbai)))))
+        (, ,)
+        (VP (VBD snapped)
+          (NP (NN communication) (NNS lines)))
+        (, ,)
+        (VP (VBD closed)
+          (NP (NNS airports)))
+        (CC and)
+        (VP (VBD forced)
+          (NP
+            (NP (NNS thousands))
+            (PP (IN of)
+              (NP (NNS people))))
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB sleep)
+                  (PP (IN in)
+                    (NP (PRP$ their) (NNS offices))))
+                (CC or)
+                (VP (VB walk)
+                  (NP (NN home))
+                  (PP (IN during)
+                    (NP (DT the) (NN night))))))))))
+    (, ,)
+    (NP (NNS officials))
+    (VP (VBD said)
+      (NP-TMP (NN today)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Dempsey))
+      (VP (VBD was)
+        (VP (VBN born)
+          (PP (IN in)
+            (NP (NNP Nacogdoches) (, ,) (NNP Texas))))))
+    (, ,)
+    (CC and)
+    (PRN (, ,)
+      (PP (IN for)
+        (NP
+          (NP (RB much))
+          (PP (IN of)
+            (NP (PRP$ his) (NN childhood)))))
+      (, ,))
+    (S
+      (NP (PRP$ his) (NN family))
+      (VP (VBD lived)
+        (PP (IN in)
+          (NP (DT a) (NN trailer) (NN park)))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP
+              (NP (PRP he))
+              (CC and)
+              (NP (PRP$ his) (NNS siblings)))
+            (VP (VBD grew)
+              (PRT (RP up))
+              (NP
+                (NP (VBG playing) (NN soccer))
+                (PP (IN with)
+                  (NP (JJ Hispanic) (NNS immigrants)))))))))
+    (. .)))
+
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Clinton) (NNP Drew) (`` ``) (NNP Clint) ('' '') (NNP Dempsey))
+        (PRN (: /)
+          (NP (NNP ˈdɛmpsi))
+          (: /)))
+      (PRN (-LRB- -LRB-)
+        (VP (VBN born)
+          (NP (NNP March) (CD 9) (, ,) (CD 1983)))
+        (-RRB- -RRB-)))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ American) (JJ professional) (NN soccer) (NN player))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP
+              (VP (VBZ plays)
+                (PP (IN for)
+                  (NP
+                    (NP (NNP Seattle) (NNPS Sounders) (NNP FC))
+                    (PP (IN in)
+                      (NP (NNP Major) (NNP League) (NNP Soccer))))))
+              (CC and)
+              (VP (VBZ has)
+                (VP (VBN served)
+                  (PP (IN as)
+                    (NP
+                      (NP (DT the) (NN captain))
+                      (PP (IN of)
+                        (NP (DT the) (NNP United) (NNP States) (JJ national) (NN team))))))))))))
+    (. .)))
+
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP$ Whose) (NN dog))
+    (SQ (VBD did)
+      (NP (NNP Ryan))
+      (VP (VB kidnap)))
+    (. ?)))
+
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP (DT the) (NN author)))))
+    (. ?)))
+
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN company))
+    (SQ (VBZ sells)
+      (NP (DT the) (RBS most) (JJ greeting) (NNS cards)))
+    (. ?)))
+
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Whom))
+    (SQ (VBD did)
+      (NP (NNP Frieda))
+      (VP (VB call)
+        (PP (IN for)
+          (NP (DT the) (NN party)))))
+    (. ?)))
+
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN founder))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD ditched)
+                  (NP (PRP$ her) (NN boyfriend)))))))))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ has)
+      (ADVP (RB also))
+      (VP (VBN played)
+        (PP (IN for)
+          (NP
+            (NP (NNP New) (NNP England) (NNP Revolution))
+            (, ,)
+            (NP (NNP Fulham))
+            (CC and)
+            (NP (NNP Tottenham) (NNP Hotspur))))))
+    (. .)))
