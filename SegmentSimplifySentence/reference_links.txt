@@ -1,0 +1,8 @@
+http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html
+http://stackoverflow.com/questions/19429106/how-can-i-integrate-stanford-parser-software-in-my-java-program
+http://stackoverflow.com/questions/7914433/finding-noun-phrases-using-through-stanford-parser
+http://stackoverflow.com/questions/12514621/extracting-the-text-from-output-parse-tree
+http://nishutayaltech.blogspot.com/2015/08/dependency-parsing-in-stanford-corenlp.html
+http://stackoverflow.com/questions/9595983/tools-for-text-simplification-java
+http://nlp.stanford.edu/software/dependencies_manual.pdf
+https://ganeshpachpind.wordpress.com/2014/02/28/stanford-named-entity-recognizer/
